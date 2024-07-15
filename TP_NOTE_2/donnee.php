@@ -4,8 +4,8 @@ class Donnee
 {
     public $host = "pedago01c.univ-avignon.fr";
     public $dbname = "etd";
-    public $user = "uapv2403756";
-    public $password = "fmaX9D";
+    public $user = "uapvxxxxxx";
+    public $password = "";
 
     private $pdo;
 
