@@ -12,8 +12,8 @@ $util = $_GET['util'];
 
 $host = "pedago01c.univ-avignon.fr";
 $dbname = "etd";
-$user = "uapv2403756";
-$password = "fmaX9D";
+$user = "uapvxxxxxx";
+$password = "";
 
 try {
     
