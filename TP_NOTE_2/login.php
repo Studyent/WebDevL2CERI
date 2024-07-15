@@ -8,8 +8,8 @@ class Login
     {
         $host = "pedago01c.univ-avignon.fr";
         $dbname = "etd";
-        $user = "uapv2403756";
-        $password = "fmaX9D";
+        $user = "uapvxxxxxx";
+        $password = "";
 
         try {
             $this->pdo = new PDO("pgsql:host=$host;dbname=$dbname", $user, $password);
