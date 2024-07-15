@@ -5,8 +5,8 @@ class RequeteIns
 {
     public $host = "pedago01c.univ-avignon.fr";
     public $dbname = "etd";
-    public $user = "uapv2403756";
-    public $password = "fmaX9D";
+    public $user = "uapvxxxxxx";
+    public $password = "";
 
 //fonction avec rapport d'erreur sql, insertion et/ou écrasement des données
 
